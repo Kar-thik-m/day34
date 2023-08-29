@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "karthik",
+        "email": "129@gmail.com",
+        "codekata_solved": [10],
+        
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 2,
+        "name": "vishnu",
+        "email": "128@gmail.com",
+        "codekata_solved": [12],
+       
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 3,
+        "name": "arjun",
+        "email": "127@gmail.com",
+        "codekata_solved": [15],
+       
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 4,
+        "name": "prasanth",
+        "email": "126@gmail.com",
+        "codekata_solved": [20],
+        
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 5,
+        "name": "gokul",
+        "email": "125@gmail.com",
+        "codekata_solved": [10],
+      
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 6,
+        "name": "pari",
+        "email": "124@gmail.com",
+        "codekata_solved": [30],
+      
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 7,
+        "name": "martin",
+        "email": "123@gmail.com",
+        "codekata_solved": [10],
+        
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 8,
+        "name": "milkey",
+        "email": "1210@gmail.com",
+        "codekata_solved": [10],
+        
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 9,
+        "name": "naruto",
+        "email": "122@gmail.com",
+        "codekata_solved": [10],
+        
+        "mentors_id": [1,4,6]
+    },
+    {
+        "id": 10,
+        "name": "virat",
+        "email": "121@gmail.com",
+        "codekata_solved": [20],
+        
+        "mentors_id": [1,4,6]
+    }
+]

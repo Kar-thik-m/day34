@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "company_name":"tech_star",
+        "date":"01/10/2020"
+    },
+    {
+        "id":2,
+        "company_name":"accenture",
+        "date":"02/10/2020"
+    },
+    {
+        "id":3,
+        "company_name":"zoho",
+        "date":"29/10/2020"
+    },
+    {
+        "id":4,
+        "company_name":"tcs",
+        "date":"04/10/2020"
+    },
+    {
+        "id":5,
+        "company_name":"extraa",
+        "date":"05/10/2020"
+    },
+    {
+        "id":6,
+        "company_name":"innotrat_labs",
+        "date":"19/10/2020"
+    },
+    {
+        "id":7,
+        "company_name":"aureus tech system",
+        "date":"21/10/2020"
+    },
+    {
+        "id":8,
+        "company_name":"transport wings",
+        "date":"08/10/2020"
+    },
+    {
+        "id":9,
+        "company_name":"simplotel",
+        "date":"16/10/2020"
+    },
+    {
+        "id":10,
+        "company_name":"thor signa",
+        "date":"20/10/2020"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+      "topicId": 1,
+      "topicName": "Introduction to Python",
+      "date":"2020-10-01",
+      "language": "Python"
+    },
+    {
+      "topicId": 2,
+      "topicName": "JavaScript Fundamentals",
+      "date":"2020-11-11",
+      "language": "JavaScript"
+    },
+    {
+      "topicId": 3,
+      "topicName": "Data Structures in Java",
+      "date":"2020-10-12",
+      "language": "Java"
+    },
+    {
+      "topicId": 4,
+      "topicName": "Object-Oriented Programming",
+      "date":"2020-9-21",
+      "language": "Python"
+    },
+    {
+      "topicId": 5,
+      "topicName": "Web Development Basics",
+      "date":"2020-10-30",
+      "language": "JavaScript"
+    },
+    {
+      "topicId": 6,
+      "topicName": "C++ Programming",
+      "date":"2020-12-20",
+      "language": "C++"
+    },
+    {
+      "topicId": 7,
+      "topicName": "Python for Data Science",
+      "date":"2020-08-25",
+      "language": "Python"
+    },
+    {
+      "topicId": 8,
+      "topicName": "Mobile App Development with Swift",
+      "date":"2020-10-14",
+      "language": "Swift"
+    },
+    {
+      "topicId": 9,
+      "topicName": "Java GUI Programming",
+      "date":"2020-11-15",
+      "language": "Java"
+    },
+    {
+      "topicId": 10,
+      "topicName": "Advanced JavaScript",
+      "date":"2020-12-16",
+      "language": "JavaScript"
+    }
+   
+
+  ]
+

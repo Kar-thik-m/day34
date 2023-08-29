@@ -1,0 +1,53 @@
+[
+        {
+            "taskId": 1,
+            "taskName": "Design user interface mockups",
+            "date": "2020-10-25"
+        },
+        {
+            "taskId": 2,
+            "taskName": "Develop backend API endpoints",
+            "date": "2020-10-26"
+        },
+        {
+            "taskId": 3,
+            "taskName": "Write unit tests for authentication",
+            "date": "2020-10-24"
+        },
+        {
+            "taskId": 4,
+            "taskName": "Integrate third-party libraries",
+            "date": "2020-10-27"
+        },
+        {
+            "taskId": 5,
+            "taskName": "Optimize database queries",
+            "date": "2020-10-24"
+        },
+        {
+            "taskId": 6,
+            "taskName": "Implement user authentication",
+            "date": "2020-10-25"
+        },
+        {
+            "taskId": 7,
+            "taskName": "Create deployment scripts",
+            "date": "2020-10-28"
+        },
+        {
+            "taskId": 8,
+            "taskName": "Design data models",
+            "date": "2020-10-26"
+        },
+        {
+            "taskId": 9,
+            "taskName": "Write documentation for APIs",
+            "date": "2020-10-27"
+        },
+        {
+            "taskId": 10,
+            "taskName": "Conduct code reviews",
+            "date": "2020-10-28"
+        }
+    ]
+
